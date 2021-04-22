@@ -19,7 +19,13 @@ public class Studente implements Serializable{
         this.nome = nome;
         this.cognome = cognome;
         this.numero = numero;
-        this.n = n;
+        this.n = n
+                ;
+                        
+                        
+                        
+                        
+                        
     }
 
     @Override
